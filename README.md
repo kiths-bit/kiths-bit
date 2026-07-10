@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20GenAI%2FLLM%20Engineering&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Keerthana%20Sudhakaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20GenAI%2FLLM%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Python+Full+Stack+Developer+%7C+Django+%2B+DRF+%2B+Angular;Cybersecurity+%26+Threat+Intelligence+Engineer;GenAI+%2F+LLM+Engineering+%E2%80%94+LangChain+%2B+RAG+%2B+OpenAI;Building+ThreatLens+%E2%80%94+Risk+Scoring+Platform" alt="Typing SVG" />
@@ -20,9 +20,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=7C3AED&labelColor=1E1B2E"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=6D28D9&labelColor=1E1B2E"/>
+<img src="https://komarev.com/ghpvc/?username=kiths-bit&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/kiths-bit?label=Followers&style=flat-square&color=7C3AED&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/github/stars/kiths-bit?label=Stars&style=flat-square&color=6D28D9&labelColor=1E1B2E"/>
 
 </div>
 
@@ -157,37 +157,74 @@ Built incrementally and deliberately — starting from a Flask skeleton, then la
 ### Cybersecurity Analyst Intern —  Elythra Edufy Tech Solutions
 `May 2026 – june 2026`
 
-Brief professional description of the role and its scope within the organization.
+**Penetration Testing Project**
 
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
+Contributed to the organization’s cybersecurity assessment activities by performing authorized penetration testing in a controlled lab environment. The role involved identifying security vulnerabilities, evaluating potential risks, documenting findings, and recommending remediation measures to improve the security posture of the target system.
 
-`Python` `Flask` `Security` `REST APIs`
+- Conducted authorized security testing on a web application/lab environment.
+- Identified vulnerabilities through reconnaissance, scanning, and manual testing.
+- Analyzed security weaknesses and documented findings with evidence.
+- Provided remediation recommendations to improve application security.
+
+`Kali Linux` `Nmap` `Burp Suite` `OWASP ZAP` `DVWA` `Firefox`
+
+**SOC Monitoring & Intrusion Detection Project**
+
+Supported the organization’s security operations by participating in SOC monitoring and intrusion detection activities. The role included configuring SIEM and IDS tools, monitoring security alerts, analyzing logs, investigating suspicious events, and documenting incident response findings to strengthen threat detection and security monitoring processes.
+
+- Configured SIEM tools for centralized log collection and monitoring.
+- Deployed and monitored IDS alerts using tools such as Wazuh and Suricata.
+- Analyzed security logs to detect suspicious activity and investigate incidents.
+- Created incident response and log analysis reports based on lab findings.
+
+`Ubuntu Linux` `Wazuh` `ELK Stack` `Suricata` `Wireshark` `Sysmon`
 
 ---
 
 ### Cybersecurity Intern — Placemantra
-`Month Year – Month Year`
+`May 2025 – July 2025`
 
-Brief professional description of the role and its scope within the organization.
+**Footprinting with Nmap**
 
-- Scope of work bullet point one
-- Scope of work bullet point two
+Developed during my internship at Placemantra, this project focused on network footprinting and reconnaissance using Nmap. It involved host discovery, port scanning, service enumeration, and basic vulnerability analysis to identify potential security risks. Through this project, I gained practical experience in network security, threat assessment, and cybersecurity workflows.
 
-`Skill Tag` `Skill Tag` `Skill Tag`
+- Conducted network footprinting and reconnaissance using Nmap.
+- Performed host discovery and port scanning on target systems.
+- Identified active services and gathered network information.
+- Carried out basic vulnerability analysis to detect security risks.
+- Applied cybersecurity and ethical hacking principles in a controlled environment.
+- Gained practical experience in network security workflows and threat assessment.
+
+`Nmap` `Command Line Interface(CLI)` `Kali Linux`  `Tor Browser`  `Networking Utilities`
+
+**TOR to protect your system **
+
+Developed during my internship at Placemantra, this project focused on understanding online privacy and anonymity using the Tor network. It involved configuring and using Tor to enhance secure browsing, protect user identity, and study cybersecurity practices related to privacy and network security.
+
+- Explored the fundamentals of the Tor network and anonymous communication.
+- Configured and used Tor Browser for secure browsing.
+- Studied techniques for protecting user identity and online activity.
+- Analyzed the role of anonymity in cybersecurity and privacy.
+- Gained practical exposure to secure browsing and network security concepts.
+- Applied cybersecurity best practices to improve system privacy.
+
+`Command Line Interface(CLI)` `Kali Linux`  `Tor Browser`  `Networking Utilities`
 
 ---
 
 ### Data Science Intern  — Internshala 
-`Month Year – Month Year`
+`September 2024 – October 2024`
 
-Brief professional description of the role and its scope within the organization.
+Completed an 8-week online Data Science training program offered by Internshala. The training covered data analysis fundamentals, data visualization, machine learning, predictive analytics, artificial intelligence, and practical applications of data science through a capstone project.
 
-- Scope of work bullet point one
-- Scope of work bullet point two
+- Learned the fundamentals of data science and data analysis.
+- Worked with datasets to clean, process, and extract insights.
+- Explored data visualization techniques for effective communication.
+- Applied machine learning algorithms for predictive analytics.
+- Studied the role of artificial intelligence in data science.
+- Completed a capstone project involving real-world data analysis.
 
-`Skill Tag` `Skill Tag` `Skill Tag`
+`Python` `NumPy` `Pnadas`  `Matplotlib`  `Scikit-learn`  `Jupyter Notebook`
 
 ## 🔁 Process, Methodology & Version Control
 
@@ -219,31 +256,18 @@ Brief professional description of the role and its scope within the organization
 
 ## 📜 Certifications
 
-**AWS**
+**IBM**
 
-<img src="https://img.shields.io/badge/AWS_Certified-Certification_Name-6D28D9?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-Getting_Started_with_Cybersecurity-6D28D9?style=flat-square&logo=ibm&logoColor=white&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/IBM_SkillsBuild-Security_Operations_Center_in_Practice-6D28D9?style=flat-square&logo=ibm&logoColor=white&labelColor=1E1B2E"/>
 
-**Oracle**
+**Deliotte**
 
-<img src="https://img.shields.io/badge/Oracle_Certified-Certification_Name-7C3AED?style=flat-square&logo=oracle&logoColor=white&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-0F766E?style=flat-square&logo=deloitte&logoColor=white&labelColor=1E1B2E"/>
 
-**NPTEL**
+**NSDC**
 
-<img src="https://img.shields.io/badge/NPTEL-Course_Name-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1E1B2E"/>
-
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B2E"/></a>
-<a href="https://codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B2E"/></a>
-
-</div>
+<img src="https://img.shields.io/badge/NSDC-Data_Science-7C3AED?style=flat-square&logo=internshala&logoColor=white&labelColor=1E1B2E"/>
 
 ---
 
@@ -275,16 +299,6 @@ Brief professional description of the role and its scope within the organization
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiths-bit&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kiths-bit/kiths-bit/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
