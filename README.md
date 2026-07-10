@@ -3,8 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Keerthana%20Sudhakaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20GenAI%2FLLM%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Python+Full+Stack+Developer+%7C+Django+%2B+DRF+%2B+Angular;Cybersecurity+%26+Threat+Intelligence+Engineer;GenAI+%2F+LLM+Engineering+%E2%80%94+LangChain+%2B+RAG+%2B+OpenAI;Building+ThreatLens+%E2%80%94+Risk+Scoring+Platform" alt="Typing SVG" />
+  
 </a>
+
 
 <br/>
 
